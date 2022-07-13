@@ -1,0 +1,1 @@
+[{"name":"Uşak Merkez","lat":"38.6742","lng":"29.4059"},{"name":"Banaz","lat":"38.7398","lng":"29.7532"},{"name":"Eşme","lat":"38.3999","lng":"28.9714"},{"name":"Karahallı","lat":"38.3199","lng":"29.5315"},{"name":"Sivaslı","lat":"38.4999","lng":"29.6839"},{"name":"Ulubey","lat":"38.4217","lng":"29.2905"}]

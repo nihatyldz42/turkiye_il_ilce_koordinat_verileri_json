@@ -1,0 +1,1 @@
+[{"name":"Şırnak Merkez","lat":"37.5190","lng":"42.4537"},{"name":"Beytüşşebap","lat":"37.5700","lng":"43.1640"},{"name":"Cizre","lat":"37.3323","lng":"42.1855"},{"name":"Güçlükonak","lat":"37.4727","lng":"41.9126"},{"name":"İdil","lat":"37.3402","lng":"41.8934"},{"name":"Silopi","lat":"37.2487","lng":"42.4713"},{"name":"Uludere","lat":"37.4453","lng":"42.8567"}]

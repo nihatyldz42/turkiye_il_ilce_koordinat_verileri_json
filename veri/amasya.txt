@@ -1,0 +1,1 @@
+[{"name":"Amasya Merkez","lat":"40.6565","lng":"35.8373"},{"name":"Göynücek","lat":"40.3974","lng":"35.5242"},{"name":"Gümüşhacıköy","lat":"40.8736","lng":"35.2159"},{"name":"Hamamözü","lat":"40.7827","lng":"35.0233"},{"name":"Merzifon","lat":"40.8748","lng":"35.4618"},{"name":"Suluova","lat":"40.8365","lng":"35.6456"},{"name":"Taşova","lat":"40.7607","lng":"36.3222"}]

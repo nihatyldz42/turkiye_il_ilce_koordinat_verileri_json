@@ -1,0 +1,1 @@
+[{"name":"Hakkari Merkez","lat":"37.5774","lng":"43.7368"},{"name":"Çukurca","lat":"37.2469","lng":"43.6123"},{"name":"Şemdinli","lat":"37.3034","lng":"44.5770"},{"name":"Yüksekova","lat":"37.5717","lng":"44.2823"}]

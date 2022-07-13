@@ -1,0 +1,1 @@
+[{"name":"Kilis Merkez","lat":"36.7165","lng":"37.1147"},{"name":"Elbeyli","lat":"36.6750","lng":"37.4669"},{"name":"Musabeyli","lat":"36.8859","lng":"36.9159"},{"name":"Polateli","lat":"36.8424","lng":"37.1437"}]

@@ -1,0 +1,1 @@
+[{"name":"Osmaniye Merkez","lat":"37.0748","lng":"36.2466"},{"name":"Bahçe","lat":"37.1966","lng":"36.5726"},{"name":"Düziçi","lat":"37.2402","lng":"36.4533"},{"name":"Hasanbeyli","lat":"37.1317","lng":"36.5530"},{"name":"Kadirli","lat":"37.3740","lng":"36.0974"},{"name":"Sumbas","lat":"37.4473","lng":"36.0276"},{"name":"Toprakkale","lat":"37.0624","lng":"36.1452"}]

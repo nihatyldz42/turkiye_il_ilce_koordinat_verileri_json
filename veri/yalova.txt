@@ -1,0 +1,1 @@
+[{"name":"Yalova Merkez","lat":"40.6549","lng":"29.2842"},{"name":"Altınova","lat":"40.6966","lng":"29.5101"},{"name":"Armutlu","lat":"40.5188","lng":"28.8294"},{"name":"Çınarcık","lat":"40.6452","lng":"29.1192"},{"name":"Çiftlikköy","lat":"40.6632","lng":"29.3161"},{"name":"Termal","lat":"40.6068","lng":"29.1749"}]

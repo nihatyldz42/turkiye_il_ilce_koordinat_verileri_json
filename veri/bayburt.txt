@@ -1,0 +1,1 @@
+[{"name":"Bayburt Merkez","lat":"40.2603","lng":"40.2280"},{"name":"Aydıntepe","lat":"40.3898","lng":"40.1468"},{"name":"Demirözü","lat":"40.1625","lng":"39.8928"}]

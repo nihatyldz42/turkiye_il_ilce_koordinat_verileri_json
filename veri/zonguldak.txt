@@ -1,0 +1,1 @@
+[{"name":"Zonguldak Merkez","lat":"41.4535","lng":"31.7894"},{"name":"Alaplı","lat":"41.1827","lng":"31.3845"},{"name":"Çaycuma","lat":"41.4286","lng":"32.0772"},{"name":"Devrek","lat":"41.2212","lng":"31.9546"},{"name":"Gökçebey","lat":"41.3060","lng":"32.1432"},{"name":"Karadeniz Ereğli","lat":"41.2799","lng":"31.4203"},{"name":"Kilimli","lat":"41.4842","lng":"31.8403"}]

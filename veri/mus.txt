@@ -1,0 +1,1 @@
+[{"name":"Muş Merkez","lat":"38.7346","lng":"41.4910"},{"name":"Bulanık","lat":"39.0966","lng":"42.2681"},{"name":"Hasköy","lat":"38.6843","lng":"41.6908"},{"name":"Korkut","lat":"38.7386","lng":"41.7858"},{"name":"Malazgirt","lat":"39.1461","lng":"42.5410"},{"name":"Varto","lat":"39.1735","lng":"41.4578"}]

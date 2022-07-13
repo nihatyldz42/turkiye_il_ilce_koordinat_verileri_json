@@ -1,0 +1,1 @@
+[{"name":"Karabük Merkez","lat":"41.1956","lng":"32.6227"},{"name":"Eflani","lat":"41.4231","lng":"32.9587"},{"name":"Eskipazar","lat":"40.9445","lng":"32.5322"},{"name":"Ovacık","lat":"41.0733","lng":"32.9175"},{"name":"Safranbolu","lat":"41.2493","lng":"32.6831"},{"name":"Yenice","lat":"41.2002","lng":"32.3292"}]

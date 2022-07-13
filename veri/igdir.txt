@@ -1,0 +1,1 @@
+[{"name":"Iğdır Merkez","lat":"39.9191","lng":"44.0442"},{"name":"Aralık","lat":"39.8739","lng":"44.5161"},{"name":"Karakoyunlu","lat":"39.9707","lng":"44.1744"},{"name":"Tuzluca","lat":"40.0400","lng":"43.6632"}]

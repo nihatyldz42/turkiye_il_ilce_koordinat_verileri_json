@@ -1,0 +1,1 @@
+[{"name":"Niğde Merkez","lat":"37.9698","lng":"34.6766"},{"name":"Altunhisar","lat":"37.9980","lng":"34.3712"},{"name":"Bor","lat":"37.8940","lng":"34.5618"},{"name":"Çamardı","lat":"37.8335","lng":"34.9857"},{"name":"Çiftlik","lat":"38.1751","lng":"34.4848"},{"name":"Ulukışla","lat":"37.5465","lng":"34.4843"}]

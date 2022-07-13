@@ -1,0 +1,1 @@
+[{"name":"Kırşehir Merkez","lat":"39.1463","lng":"34.1599"},{"name":"Akçakent","lat":"39.6250","lng":"34.0962"},{"name":"Akpınar","lat":"39.4520","lng":"33.9602"},{"name":"Boztepe","lat":"39.2702","lng":"34.2658"},{"name":"Çiçekdağı","lat":"39.6017","lng":"34.4181"},{"name":"Kaman","lat":"39.3589","lng":"33.7234"},{"name":"Mucur","lat":"39.0635","lng":"34.3739"}]

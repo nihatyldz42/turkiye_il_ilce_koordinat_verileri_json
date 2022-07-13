@@ -1,0 +1,1 @@
+[{"name":"Siirt Merkez","lat":"37.9274","lng":"41.9420"},{"name":"Baykan","lat":"38.1626","lng":"41.7852"},{"name":"Eruh","lat":"37.7505","lng":"42.1799"},{"name":"Kurtalan","lat":"37.9269","lng":"41.7028"},{"name":"Pervari","lat":"37.9326","lng":"42.5476"},{"name":"Şirvan","lat":"38.0622","lng":"42.0293"},{"name":"Tillo","lat":"37.9502","lng":"42.0118"}]

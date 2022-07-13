@@ -1,0 +1,1 @@
+[{"name":"Bartın Merkez","lat":"41.6377","lng":"32.3338"},{"name":"Amasra","lat":"41.7470","lng":"32.3855"},{"name":"Kurucaşile","lat":"41.8439","lng":"32.7207"},{"name":"Ulus","lat":"41.5837","lng":"32.6398"}]

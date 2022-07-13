@@ -1,0 +1,1 @@
+[{"name":"Aksaray Merkez","lat":"38.3686","lng":"34.0297"},{"name":"Ağaçören","lat":"38.8690","lng":"33.9141"},{"name":"Eskil","lat":"38.4021","lng":"33.4134"},{"name":"Gülağaç","lat":"38.3942","lng":"34.3459"},{"name":"Güzelyurt","lat":"38.2775","lng":"34.3726"},{"name":"Ortaköy","lat":"38.7375","lng":"34.0398"},{"name":"Sarıyahşi","lat":"38.9858","lng":"33.8448"}]

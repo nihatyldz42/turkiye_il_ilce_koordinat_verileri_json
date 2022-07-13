@@ -1,0 +1,1 @@
+[{"name":"Bitlis Merkez","lat":"38.4006","lng":"42.1095"},{"name":"Adilcevaz","lat":"38.8049","lng":"42.7365"},{"name":"Ahlat","lat":"38.7553","lng":"42.4871"},{"name":"Güroymak","lat":"38.5764","lng":"42.0206"},{"name":"Hizan","lat":"38.2255","lng":"42.4279"},{"name":"Mutki","lat":"38.4086","lng":"41.9223"},{"name":"Tatvan","lat":"38.5020","lng":"42.2813"}]

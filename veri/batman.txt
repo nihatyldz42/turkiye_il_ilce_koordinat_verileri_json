@@ -1,0 +1,1 @@
+[{"name":"Batman Merkez","lat":"37.8888","lng":"41.1285"},{"name":"Beşiri","lat":"37.9162","lng":"41.2927"},{"name":"Gercüş","lat":"37.5683","lng":"41.3853"},{"name":"Hasankeyf","lat":"37.7128","lng":"41.4152"},{"name":"Kozluk","lat":"38.1938","lng":"41.4889"},{"name":"Sason","lat":"38.3340","lng":"41.4201"}]

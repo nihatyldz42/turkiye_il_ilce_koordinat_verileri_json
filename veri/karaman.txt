@@ -1,0 +1,1 @@
+[{"name":"Karaman Merkez","lat":"37.1811","lng":"33.2234"},{"name":"Ayrancı","lat":"37.3618","lng":"33.6893"},{"name":"Başyayla","lat":"36.7537","lng":"32.6770"},{"name":"Ermenek","lat":"36.6403","lng":"32.8920"},{"name":"Kazımkarabekir","lat":"37.2273","lng":"32.9590"},{"name":"Sarıveliler","lat":"36.6986","lng":"32.6178"}]
